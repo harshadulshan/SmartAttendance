@@ -96,28 +96,28 @@ Built with **Python**, **OpenCV**, and **Dash** — packaged with a beautiful li
 ### 🌙 Dark Mode Dashboard
 > Clean dark interface with real-time stats and charts
 
-![Dark Dashboard](today_dark.PNG)
+![Dark Dashboard](today_dark.png)
 
 ---
 
 ### ☀️ Light Mode Dashboard
 > Elegant light theme for daytime use
 
-![Light Dashboard](today_light.PNG)
+![Light Dashboard](today_light.png)
 
 ---
 
 ### 📆 Weekly Analytics
 > Track attendance trends across the week
 
-![Weekly](weekly.PNG)
+![Weekly](weekly.png)
 
 ---
 
 ### 🗓️ Monthly Heatmap
 > Visualize attendance patterns with interactive heatmap
 
-![Monthly](monthly.PNG)
+![Monthly](monthly.png)
 
 ---
 
