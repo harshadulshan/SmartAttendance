@@ -1,5 +1,3 @@
-# SmartAttendance
-🔐 AI-Powered Smart Attendance System with Face Recognition, Live Dashboard &amp; Auto Email Reports
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Smart%20Attendance%20System&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI-Powered%20Face%20Recognition%20Attendance&descAlignY=58&descSize=18"/>
