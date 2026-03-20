@@ -1,0 +1,10 @@
+dataset/
+snapshots/
+unknown_faces/
+attendance/
+face_model.yml
+label_map.json
+__pycache__/
+*.pyc
+*.db
+reports/
